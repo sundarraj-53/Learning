@@ -23,3 +23,77 @@ p{
     padding-left: 10px;
     padding-right:10px;
 }
+#list{
+    display: flex;
+}
+#ordered{
+    list-style: circle;
+    list-style-position: inside;
+}
+#unordered{
+    list-style-type: upper-alpha;
+}
+a{
+    text-decoration: none;
+    color: rgb(95, 13, 237);
+    font-style: bold;   
+    word-spacing: 4px;
+}
+.menu-item{
+    font-size: 18px;
+    /* background-color: rgb(244, 246, 194);  */
+}
+.menu-item:link{
+    color:blue;
+}
+.menu-item:visited{
+    color:green
+}
+.menu-item:hover{
+    color:red
+}
+.menu-item:active{
+    color: purple
+}
+#button{
+    margin-top: 30px;
+    word-spacing: 20px;
+}
+#btn-login{
+    border: none;
+    background-color: skyblue;
+    border-radius: 10px;
+    padding:10px 15px;
+    outline: none;
+    cursor: pointer;
+}
+#btn-login:hover{
+    color: white;
+    background-color: cornflowerblue;
+}
+#btn-signup{
+    border:none;
+    background-color: blue;
+    padding: 10px 15px;
+    border-radius: 10px;
+    outline: none;
+    cursor: pointer;
+}
+#btn-signup:hover{
+    background-color: skyblue;
+}
+#btn-Admin{
+    border: rgb(255, 12, 194);
+    background-color: cadetblue;
+    padding:10px 15px;
+    border-radius: 10px;
+    outline: none;
+    cursor:not-allowed;
+}
+#btn-Admin:hover{
+    color: rgb(254, 254, 254);
+    background-color: brown;
+}
+i{
+    padding-right: 10px;
+}

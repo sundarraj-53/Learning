@@ -1,0 +1,37 @@
+CSS Keys
+  1. text-align
+		center
+		justify
+		right
+		left
+  2. color
+  3. text-decoration
+		underline
+		overline
+		throughline
+  4. text-transform
+		uppercase
+		lowercase
+  		capitalize
+  5. font-style
+		Italic
+		normal
+  6. font-weight
+  7. letter-spacing
+  8. word-spacing
+  9. font-family
+  10. border
+  11 border-radius
+  12. margin
+  13 padding: top right bottom left
+        or
+     padding:top & bottom right & left
+  14. list-style-type
+  15. list-style
+  16. list-style-type
+  17. border
+  18. border-radius
+  19. link, visited, hover, active
+  20. outline
+  21. cursor 
+	 		
